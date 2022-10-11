@@ -1,5 +1,5 @@
-/* Name Of the Candidate: Manoj Reddy C
-   Roll No: 204G1A0554
+/* Name Of the Candidate: G.Mahesh Kumar
+   Roll No: 204G1A0551
    Title of the Experiment: CPU Scheduling Using Round Robin Algorithm
    Date of Creation: 13-09-2022
    Date of Execution: 13-09-2022
